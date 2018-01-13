@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NavigationTask</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="names">
+        <item>Home</item>
+        <item>Profile</item>
+        <item>Contact Us</item>
+        <item>Settings</item>
+    </string-array>
+
+    <!--<integer-array name="icon_images">-->
+        <!--<item>@drawable/ic_home</item>-->
+        <!--<item>@drawable/ic_profile</item>-->
+        <!--<item>@drawable/ic_contactUs</item>-->
+        <!--<item>@drawable/ic_settings</item>-->
+    <!--</integer-array>-->
+
+    <string name="home">Home Fragment</string>
+    <string name="profile">Profile Fragment</string>
+    <string name="contactUs">ContactUs Fragment</string>
+    <string name="settings">Settings Fragment</string>
+
+
+</resources>
+
+
